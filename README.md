@@ -1,6 +1,8 @@
 # 🎓 EduChampion Framework
 An AI-powered Educational Analytics Dashboard for student performance prediction, explainability, and sustainability tracking.
 
+https://educhamp.streamlit.app/
+
 ## 🚀 About
 EduChampion is a modular, agent-based system that predicts student performance using ML models (Decision Tree, Logistic Regression, Random Forest, LSTM) trained on the Open University Learning Analytics Dataset (OULAD).
 
