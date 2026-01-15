@@ -1,6 +1,6 @@
 # ===============================================
 # 🎓 EduChampion Dashboard - Modular Integration
-# Author: Khurram Rashid | Amity University Mumbai
+# Author: Khurram Rashid | Amity University Mumbai.  
 # ===============================================
 
 import streamlit as st
