@@ -1,4 +1,4 @@
-# 🎓 EduChampion Framework
+# 🎓 EduChampion Framework 
 An AI-powered Educational Analytics Dashboard for student performance prediction, explainability, and sustainability tracking.
 
 https://educhamp.streamlit.app/. 
