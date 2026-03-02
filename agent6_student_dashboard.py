@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import random
+import random 
 
 def run_agent6_dashboard():
     st.header("Agent 6: Student Summary Visualization Dashboard")
