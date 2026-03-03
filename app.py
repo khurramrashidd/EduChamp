@@ -1,7 +1,7 @@
 # ===============================================
 # 🎓 EduChampion Dashboard - Modular Integration
 # Author: Khurram Rashid | Amity University Mumbai.  
-# ===============================================
+# =============================================== 
 
 import streamlit as st
 from agent2_model_performance import run_agent2_dashboard
