@@ -6,7 +6,7 @@
 
 # Core Data & ML Libraries
 pandas
-numpy
+numpy 
 scikit-learn==1.6.1
 joblib
 
