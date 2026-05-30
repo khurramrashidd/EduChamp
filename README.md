@@ -4,7 +4,7 @@ An AI-powered Educational Analytics Dashboard for student performance prediction
 https://educhamp.streamlit.app/. 
 
 ## 🚀 About
-EduChampion is a modular, agent-based system that predicts student performance using ML models (Decision Tree, Logistic Regression, Random Forest, LSTM) trained on the Open University Learning Analytics Dataset (OULAD).
+EduChampion is a modular, agent-based system(7-Agent) that predicts student performance using ML models (Decision Tree, Logistic Regression, Random Forest, LSTM) trained on the Open University Learning Analytics Dataset (OULAD).
 
 It includes: 
 - Agent 1: Data Ingestion  
